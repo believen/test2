@@ -1,0 +1,6 @@
+test test 
+import simplegui
+
+frame = simplegui.create_frame
+
+frame.start()
