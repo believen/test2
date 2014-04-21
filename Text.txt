@@ -1,6 +1,11 @@
 test test 
 import simplegui
 
+def something(blah)
+	blah blah blah 
+	blah blah blah blah blah
+
+
 frame = simplegui.create_frame
 
 frame.start()
